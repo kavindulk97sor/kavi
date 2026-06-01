@@ -1,2 +1,2 @@
 # kavi
-programmin
+programming
